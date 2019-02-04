@@ -1,2 +1,2 @@
 This is git testing.
-testing stash.
+testing stash. again with -p
