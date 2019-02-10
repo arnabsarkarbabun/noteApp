@@ -1,6 +1,12 @@
 This is git testing.
+<<<<<<< HEAD
 This is git testing.
 This is git testing.
 This is git testing.
 This is git testing.
 testing stash. again with -p
+=======
+testing stash. again with -pi
+
+Changes are being made from 2nd branch.
+>>>>>>> e489b41c410a660db90bed988e2d4e3279e26871
