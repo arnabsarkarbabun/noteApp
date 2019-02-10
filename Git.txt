@@ -1,4 +1,11 @@
 This is git testing.
+This is git testing.
+This is git testing.
+This is git testing.
+This is git testing.
+testing stash. again with -p
+=======
 testing stash. again with -pi
 
-Changes are being made from 2nd branch.
+
+changes are being made in experimental branch.
